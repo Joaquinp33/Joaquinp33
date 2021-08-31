@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joaquinp33
-- 📜 Social Communicator & Graphic Designer.
-- 🌱 Currently learning Frontend Development
+- 🎓 Social Communicator & Graphic Designer.
+- 📘 Currently learning Frontend Development
 - 👉 My FreeCodeCamp profile: https://www.freecodecamp.org/joaquinp
 - 📫 You can contact me on LinkedIn (https://www.linkedin.com/in/joaquinpriotti/) or in my personal e-mail joaquinpriotti_06@hotmail.com
 <!---
